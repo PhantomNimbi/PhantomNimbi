@@ -6,8 +6,7 @@ Hello, I am hobbyist developer, working on multiple open source projects, mainly
 -------------------
 
 ## Contact
-<a href="https://twitter.com/_Nimbi">![Twitter](https://img.shields.io/badge/_Nimbi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.me/developer-corner">![DiscordServer](https://img.shields.io/discord/801125364218200074?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
-</a> ![Discord](https://img.shields.io/badge/Nimbi%234961-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<a href="https://twitter.com/_Nimbi">![Twitter](https://img.shields.io/badge/_Nimbi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.me/developer-corner"> ![DiscordServer](https://img.shields.io/discord/801125364218200074?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)</a> ![Discord](https://img.shields.io/badge/Nimbi%234961-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
 
