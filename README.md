@@ -6,8 +6,7 @@ Hello, I am hobbyist developer, working on multiple open source projects, mainly
 -------------------
 
 ## Contact
-<a href="https://twitter.com/_Nimbi">![Twitter](https://img.shields.io/badge/_Nimbi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.me/developer-corner"> ![DiscordServer](https://img.shields.io/discord/801125364218200074?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)</a> ![Discord](https://img.shields.io/badge/Nimbi%234961-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
+<a href="https://twitter.com/_Nimbi">![Twitter](https://img.shields.io/badge/_Nimbi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.me/developer-corner"> ![DiscordServer](https://img.shields.io/discord/899130986242113586?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)</a> ![Discord](https://img.shields.io/badge/Nimbi%234961-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 -------------------
 
 ## Support Me
@@ -28,8 +27,8 @@ I'm a disabled developer living entirely off of SSI. As such I have next to no i
   
 -------------------
   
-![PhantomNimbiPhantomNimbi github stats](https://github-readme-stats.vercel.app/api?username=PhantomNimbi&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhantomNimbi&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhantomNimbi&theme=radical)](https://git.io/streak-stats)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhantomNimbi&theme=radical)](https://git.io/streak-stats)
 
  <div>
