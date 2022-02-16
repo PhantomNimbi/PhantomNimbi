@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
-Hello, I am hobbyist developer, working on multiple open source projects, mainly Node.JS and Python. I have created a range of Discord BOT applications as well as a few websites here and there.
+Hello, I am a hobbyist developer, working on multiple open source projects, mainly Node.JS and Python. I have created a range of Discord BOT applications as well as a few websites here and there.
 
 -------------------
 
