@@ -13,11 +13,8 @@ Hello, I am a hobbyist developer, working on multiple open source projects, main
 
 I'm a disabled developer living entirely off of SSI. As such I have next to no income. All of my projects are done free of charge. If you like my projects, you can support me via the following options!
 
-<a href="https://www.patreon.com/Nimbi">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a><br />
 <a href="https://paypal.me/JVLewis1988">
-  <img src="https://i.imgur.com/Zes9bHO.png" width="160">
+  <img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" width="160">
 </a>
 
 -------------------
