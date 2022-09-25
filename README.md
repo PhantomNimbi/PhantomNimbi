@@ -1,19 +1,7 @@
 <div align="center">
   
 ## About
-Hello, I am a hobbyist developer, working on multiple open source projects, mainly Node.JS and Python. I have created a range of Discord BOT applications as well as a few websites here and there.
-
--------------------
-
-## Contact
-[![Discord](https://img.shields.io/badge/Nimbi%234961-%237289DA.svg?style=plastice&logo=discord&logoColor=white)](https://discordhub.com/profile/465228604721201158)
--------------------
-
-## Support Me
-
-I'm a disabled developer living entirely off of SSI. As such I have next to no income. All of my projects are done free of charge. If you like my projects, you can support me via the following options!
-
-[![PayPal](https://img.shields.io/badge/PayPal-0078d7.svg?style=plastic&logo=paypal&logoColor=white)](https://paypal.me/JVLewis1988)
+Hello, I am a hobbyist developer. I have created a range of Discord BOT applications as well as a few websites here and there. However, I mainly stick to Windows Customization now due to hardware limitations.
 
 -------------------
 
