@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
-Hello, I am a disabled hobbyist developer. I have created a range of Discord BOT applications as well as a few websites here and there. You can check my [team](https://github.com/tbr-development) to see what my current projects are.
+Hello, I am a disabled hobbyist developer. I have created a range of Discord BOT applications as well as a few websites here and there.
 
 -------------------
  
