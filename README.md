@@ -29,7 +29,7 @@ Hello, I am a disabled hobbyist developer. I have created a range of Discord BOT
   
 -------------------
   
-![GitHub Stats](https://github-readme-stats-tbr-development.vercel.app/api?username=PhantomNimbi&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+[![GitHub Stats](https://github-readme-stats-tbr-development.vercel.app/api?username=PhantomNimbi&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhantomNimbi&theme=radical)](https://git.io/streak-stats)
 
