@@ -3,8 +3,6 @@ My name is Joshua Lewis.
 
 I'm a disabled self-taught hobbyist developer and graphic designer.
 
-You can find my projects in my github pages website at [The Back Room][TheBackRoom]
-
 ## Skills
 [![][Skills]][Icons]
 
